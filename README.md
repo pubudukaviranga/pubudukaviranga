@@ -24,7 +24,7 @@
 
 <!--<img width="60%" src="https://github-readme-stats.vercel.app/api?username=pubudukaviranga&show_icons=true&include_all_commits=true" />-->
 
-<!--<img width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pubudu20&layout=compact" />
+<!--<img width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pubudukaviranga&layout=compact" />
 -->
 
 **Visitors Count** <br />
