@@ -9,7 +9,7 @@
 
 ![enter image description here](https://github.com/pubudu20/pubudu20/blob/main/img/coding-freak.gif)
 
-## I'm a Salesforce Developer, and a Chess Player!!
+## I'm a Salesforce Developer and a Chess Player!!
 
 - 🔭 I’m currently working on a Super secret salesforce project for Wiley.
 
@@ -20,7 +20,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ![Pubudu's github stats](https://github-readme-stats.vercel.app/api?username=pubudukaviranga&show_icons=true&include_all_commits=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pubudu20&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pubudukaviranga&layout=compact)
 
 <!--<img width="60%" src="https://github-readme-stats.vercel.app/api?username=pubudu20&show_icons=true&include_all_commits=true" />-->
 
