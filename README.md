@@ -28,7 +28,7 @@
 -->
 
 **Visitors Count** <br />
-![Visitor Count](https://profile-counter.glitch.me/{pubudu20}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{pubudukaviranga}/count.svg)
 
 </div>
 
