@@ -11,15 +11,15 @@
 
 ## I'm a Salesforce Developer, and a Chess Player!!
 
-- 🔭 I’m currently working on building a Fulstack E-Commerce website using the MERN stack.
+- 🔭 I’m currently working on a Super secret salesforce project for Wiley.
 
-- 🌱 I’m currently learning  Javascript, React, Node, Express and Java
+- 🌱 I’m currently learning  SFDX, AURA, and Lightning Web Components.
 
 - 👯 I’m looking to collaborate with other develoopers
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-![Pubudu's github stats](https://github-readme-stats.vercel.app/api?username=pubudu20&show_icons=true&include_all_commits=true&hide_border=true)
+![Pubudu's github stats](https://github-readme-stats.vercel.app/api?username=pubudukaviranga&show_icons=true&include_all_commits=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pubudu20&layout=compact)
 
 <!--<img width="60%" src="https://github-readme-stats.vercel.app/api?username=pubudu20&show_icons=true&include_all_commits=true" />-->
