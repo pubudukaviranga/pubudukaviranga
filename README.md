@@ -19,6 +19,8 @@
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/forceplug.png" align="right" width="220">
+
 ![Pubudu's github stats](https://github-readme-stats.vercel.app/api?username=pubudukaviranga&show_icons=true&include_all_commits=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pubudukaviranga&layout=compact)
 
