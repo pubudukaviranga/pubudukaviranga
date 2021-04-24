@@ -9,7 +9,7 @@
 
 ![enter image description here](https://github.com/pubudu20/pubudu20/blob/main/img/coding-freak.gif)
 
-## I'm a Salesforce Developer and a Chess Player!!
+## I am a Salesforce Developer and a Chess Player!!
 
 - 🔭 I’m currently working on a Super secret salesforce project for Wiley.
 
